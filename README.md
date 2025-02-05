@@ -1,0 +1,1 @@
+This repository contains a common R subsetting error where using character vector in subset condition leads to unexpected symbol error.  The bug.r file shows the erroneous code, and the bugSolution.r file provides the correct solution.
